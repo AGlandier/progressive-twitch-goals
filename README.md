@@ -11,11 +11,11 @@ Progressive Twitch Goals is a simple application that allows you to dynamically 
 ## Installation
 - Make sure JRE 8 is installed on your computer
 - Download the latest release
-- Download goals-params.properties file
+- Download /goals-params.properties file
 - Open a terminal in the folder where the jar file was downloaded and use
-'''
+```
 progressiveGoals.jar path_to_properties
-'''
+```
 - If properties are in the same folder as the Jar file, you can just execute it
 
 ## Configuration
